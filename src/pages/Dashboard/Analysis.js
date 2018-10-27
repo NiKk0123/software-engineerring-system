@@ -63,8 +63,8 @@ class Analysis extends Component {
   state = {
     salesType: 'all',
     currentTabKey: '',
-    rangePickerValue: getTimeDistance('year'),
-    loading: true,
+    rangePickerValue: getTimeDistance('week'),
+    loading: false,
   };
 
   componentDidMount() {
