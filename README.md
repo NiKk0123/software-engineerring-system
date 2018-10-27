@@ -28,7 +28,7 @@ A project in Software Engineering
 [Announcing Ant Design Pro 2.0.0](https://medium.com/ant-design/beautiful-and-powerful-ant-design-pro-2-0-release-51358da5af95)
 
 ## Nikko RSI Inventory and Approving System
-
+- System can be used by anybody within its company 
 ## Translation Recruitment :loudspeaker:
 
 We need your help: https://github.com/ant-design/ant-design-pro/issues/120
